@@ -6,8 +6,10 @@
     <version>3.18.5</version>
     <title>MicroSIP (Install)</title>
     <authors>MDev Group</authors>
-    <projectUrl>https://github.com/rattkin/microsip-nupkg</projectUrl>
-    <iconUrl>http://www.microsip.org/images/logo.png</iconUrl>
+    <projectUrl>https://www.microsip.org</projectUrl>
+    <releaseNotes>https://www.microsip.org/downloads</releaseNotes>
+    <packageSourceUrl>https://github.com/rattkin/microsip-nupkg</packageSourceUrl>
+    <iconUrl>https://www.microsip.org/images/logo.png</iconUrl>
     <copyright>2018 MDev Group</copyright>
     <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -15,9 +17,7 @@
     <docsUrl>https://www.microsip.org/faq</docsUrl>
     <tags>microsip sip telephony softphone</tags>
     <summary>Open source portable SIP softphone for Windows based on PJSIP stack</summary>
-    <description>MicroSIP - open source portable SIP softphone based on PJSIP stack for Windows OS.
-
-	It allowing to do high quality VoIP calls (person-to-person or on regular telephones) via open SIP protocol. From cloud of SIP providers you can choose best for you, register account and use it with MicroSIP. You'll get free person-to-person calls and cheap international calls.
+    <description>It allowing to do high quality VoIP calls (person-to-person or on regular telephones) via open SIP protocol. From cloud of SIP providers you can choose best for you, register account and use it with MicroSIP. You'll get free person-to-person calls and cheap international calls.
 
 	Main in MicroSIP:
 
