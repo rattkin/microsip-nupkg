@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
-$url        = 'https://www.microsip.org/downloads/?file=MicroSIP-3.18.5.exe'
+$url        = 'https://www.microsip.org/downloads/?file=MicroSIP-3.19.7.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -10,7 +10,7 @@ $packageArgs = @{
   url           = $url
   url64bit      = $url64
   softwareName  = 'microsip*'
-  checksum      = '4fd7273f0720c8da8591e32a52c08ce9f4a138def8e9cd80eaf068815269ddea'
+  checksum      = 'b7164fa8eb6b9d7fa15a49093b9712321b9c9a71e21d0fd76cfe0cef9445e4dc'
   checksumType  = 'sha256'
   silentArgs   = '/S'
   validExitCodes= @(0)
