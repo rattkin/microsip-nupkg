@@ -6,6 +6,7 @@
     <version>3.19.8</version>
     <title>MicroSIP</title>
     <authors>MDev Group</authors>
+	<owners>rattkin</owners>
     <projectUrl>https://www.microsip.org</projectUrl>
     <releaseNotes>https://www.microsip.org/downloads</releaseNotes>
     <packageSourceUrl>https://github.com/rattkin/microsip-nupkg</packageSourceUrl>
