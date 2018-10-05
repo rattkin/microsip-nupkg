@@ -10,7 +10,7 @@
     <projectUrl>https://www.microsip.org</projectUrl>
     <releaseNotes>https://www.microsip.org/downloads</releaseNotes>
     <packageSourceUrl>https://github.com/rattkin/microsip-nupkg</packageSourceUrl>
-    <iconUrl>https://www.microsip.org/images/logo.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/rattkin/microsip-nupkg/master/logo.png</iconUrl>
     <copyright>2018 MDev Group</copyright>
     <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
