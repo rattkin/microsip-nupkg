@@ -1,6 +1,6 @@
-﻿## Microsip install package
+﻿## MicroSIP install package
 
-https://chocolatey.org/packages/microsip
+https://community.chocolatey.org/packages/microsip
 
 How to build package:
 - choco pack
